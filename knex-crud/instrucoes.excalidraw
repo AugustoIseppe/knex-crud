@@ -1,0 +1,48 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "K7s1NcyhWBd6I9ckw_rzN",
+      "type": "text",
+      "x": 387,
+      "y": 139.33334350585938,
+      "width": 480.61962890625,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 958687941,
+      "version": 230,
+      "versionNonce": 209935621,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1727716246792,
+      "link": null,
+      "locked": false,
+      "text": "COMANDOS INICIAIS: (do zero)\n- npm init -y (iniciar)\n- npm i knex mysql2 (instalar o knex o mysql)\n- npm i -g knex (instalar o knex de forma global)\n- knex init (criar o knexfile.js)",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 117,
+      "containerId": null,
+      "originalText": "COMANDOS INICIAIS: (do zero)\n- npm init -y (iniciar)\n- npm i knex mysql2 (instalar o knex o mysql)\n- npm i -g knex (instalar o knex de forma global)\n- knex init (criar o knexfile.js)",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#000"
+  },
+  "files": {}
+}
